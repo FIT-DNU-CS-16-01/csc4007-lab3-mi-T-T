@@ -3,8 +3,10 @@ __pycache__/
 .DS_Store
 .venv/
 venv/
-outputs/
+outputs_run1/
+outputs_run5/
 wandb/
 *.pt
 *.joblib
 .ipynb_checkpoints/
+.qodo/
